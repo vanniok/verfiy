@@ -1,0 +1,15 @@
+{
+  "allow_network": false,
+  "port": 8791,
+  "data_dir": "data",
+  "runtime_dir": "runtime",
+  "python_executable": "",
+  "ocr_mode": "disabled",
+  "ocr_url": "",
+  "ocr_api_token": "",
+  "ocr_timeout_seconds": 180,
+  "model_dir": "",
+  "business_profile_module": "",
+  "seed_demo": false,
+  "deployment": {"enabled": false}
+}

@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "OCR_MODE": "demo",
+  "OCR_URL": "",
+  "OCR_FIELD_MAP": "",
+  "OCR_TIMEOUT_SECONDS": 30,
+  "OCR_AUTH_HEADER": "Authorization",
+  "OCR_AUTH_VALUE": ""
+}

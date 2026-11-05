@@ -1,0 +1,11 @@
+{
+  "name": "verify-local",
+  "version": "1.0.0",
+  "private": true,
+  "license": "SEE LICENSE IN AGPL-COMBINED.md",
+  "author": {"name": "朱威", "email": "vanniok@163.com"},
+  "type": "module",
+  "description": "Local delivery note verification, human review, English PDF, and audit trail",
+  "engines": {"node": ">=22.13"},
+  "scripts": {"start": "node tools/start-local.mjs", "init:private": "node tools/init-private.mjs", "test": "node --test --test-concurrency=1 tests/*.test.mjs"}
+}

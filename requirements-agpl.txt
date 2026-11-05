@@ -1,0 +1,4 @@
+# Explicit opt-in for Verify with the AGPL-licensed PyMuPDF combination.
+# See AGPL-COMBINED.md before redistributing or operating this combination.
+-r requirements-documents.txt
+PyMuPDF==1.28.2

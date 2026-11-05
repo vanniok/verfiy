@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "relay_url": "",
+  "relay_secret": "",
+  "poll_ms": 2000,
+  "demo_owner_id": "op-a",
+  "bindings": [],
+  "channels": [
+    {"id": "kf", "callback_url": ""},
+    {"id": "bot", "callback_url": ""}
+  ]
+}
